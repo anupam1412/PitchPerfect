@@ -1,0 +1,5 @@
+{
+  "name": "PitchPerfect AI",
+  "description": "An AI-powered presentation generator that creates professional slide decks for your app ideas instantly using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
